@@ -1,4 +1,13 @@
-<div align="center">  
+<div align="center"> 
+
+
+
+![](https://img.shields.io/github/followers/MYBRIGHTESTST4R?style=for-the-badge&label=나의+수많은솔+권&labelColor=ffe373&color=ffefad)
+
+
+
+![](https://komarev.com/ghpvc/?username=MYBRIGHTESTST4RR&style=for-the-badge&label=CONSTELLATIONS&color=81C3E3)
+
   
 <img width="736" height="736" alt="Untitled91_20261123205126" src="https://github.com/user-attachments/assets/82811878-59e5-4499-b4c5-5f2bdd35a074" />
 
