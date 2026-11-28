@@ -15,7 +15,7 @@
   <summary> <p align="center"> $\color{#81C3E3}{\textsf{⋅˚₊‧ ଳ ‧₊˚ ⋅}}$ </summary>
   
   <div align="center">
-    <a href="https://github.com/marvelous-pt"><sub>Marvelous pt</sub></a> <a href="https://github.com/THE-TEMPIST"><sub>The tempist</sub></a> <a href="https://github.com/pt-everypony"><sub>Pt Everypony</sub></a> <a href="https://github.com/juminotown"><sub>Juminotown</sub></a>
+    <a href="https://github.com/marvelous-pt"><sub>Marvelous Pt</sub></a> <a href="https://github.com/THE-TEMPIST"><sub>The Tempist</sub></a> <a href="https://github.com/pt-everypony"><sub>Pt Everypony</sub></a> <a href="https://github.com/juminotown"><sub>Juminotown</sub></a> <a href="https://github.com/knox-event"><sub>Knox Event</sub></a> <a href="https://github.com/pony-town-nominations"><sub>Ponytown Nominations</sub></a>
     
 </details>
 
